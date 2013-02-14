@@ -10,6 +10,10 @@ public class Demo {
 		
 		d.setData(10);
 		System.out.println("The data is: " + d.getData());
+		
+		//Do change for a commit
+		d.setData(20);
+		System.out.println("The data is: " + d.getData());
 	}
 
 }
