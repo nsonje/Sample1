@@ -20,6 +20,7 @@ public class Demo {
 		System.out.println("The square of the data is: " + d.squareData());
 		System.out.println("**Another Hello!");
 		System.out.println("**Be happy always.");
+		System.out.println("**Please be patient!");
 	}
 
 }
