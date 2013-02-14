@@ -15,4 +15,11 @@ public class Data {
 	public int getData() {
 		return num;
 	}
+
+	/*
+	 * Return square of num. 
+	 */
+	public int squareData() {
+		return num * num;
+	}
 }

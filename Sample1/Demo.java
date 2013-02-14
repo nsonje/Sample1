@@ -14,6 +14,9 @@ public class Demo {
 		//Do change for a commit
 		d.setData(20);
 		System.out.println("The data is: " + d.getData());
+		
+		//Another commit
+		System.out.println("The square of the data is: " + d.squareData());
 	}
 
 }
