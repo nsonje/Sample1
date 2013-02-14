@@ -16,6 +16,7 @@ public class Demo {
 		System.out.println("The data is: " + d.getData());
 		
 		//Another commit
+		System.out.println("**Hello!");
 		System.out.println("The square of the data is: " + d.squareData());
 	}
 

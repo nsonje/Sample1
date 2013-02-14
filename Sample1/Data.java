@@ -22,4 +22,6 @@ public class Data {
 	public int squareData() {
 		return num * num;
 	}
+	
+	
 }
